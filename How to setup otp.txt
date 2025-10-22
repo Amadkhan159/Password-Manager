@@ -1,0 +1,3 @@
+goto Backend then open Sendmail.py 
+
+and add your email and app password to send otp
